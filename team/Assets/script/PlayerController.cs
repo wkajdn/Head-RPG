@@ -21,7 +21,12 @@ public class PlayerController : MonoBehaviour
         {
             moveDirection = new Vector2(1, -1).normalized; // S를 누르면 오른쪽 아래 대각선으로 이동
         }
-      
+        else if (moveVertical == 0)
+        {
+            moveDirection = new Vector2(1, -0).normalized; // S를 누르면 오른쪽 아래 대각선으로 이동
+        }
+
+
 
         // 이동 방향과 속도를 결합하여 이동 벡터 계산
         Vector2 moveVector = moveDirection * moveSpeed * Time.deltaTime;
