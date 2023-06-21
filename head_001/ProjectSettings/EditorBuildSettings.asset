@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 4484af730eb86464c8f7c5e2d8a4509d
+  - enabled: 1
+    path: Assets/Scenes/Bag.unity
+    guid: a7a5a127024c8364891bfaa904350723
+  - enabled: 1
+    path: Assets/Scenes/Tie.unity
+    guid: aeabac40e05762f40b7caa4a921b5281
+  - enabled: 1
+    path: Assets/Scenes/Shoe.unity
+    guid: 2bb4caa34f44da046930f05e57f1575b
+  - enabled: 1
+    path: Assets/Scenes/Shirt.unity
+    guid: 1dbfdd162425fb74e939c422f397df85
+  - enabled: 1
+    path: Assets/Scenes/Pants.unity
+    guid: 28a610ef62bebed48b3e951e6b2a3c3c
+  - enabled: 1
+    path: Assets/Scenes/Ranking.unity
+    guid: f594be331bc83d54ab934e52da2aceb4
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: 47a58783262e61045b6cf51f45080d32
+  - enabled: 1
+    path: Assets/Scenes/asd.unity
+    guid: 955e58f72f67bc14bbed785237eacaec
+  m_configObjects: {}
